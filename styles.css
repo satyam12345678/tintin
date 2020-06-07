@@ -35,7 +35,7 @@ h1{
   padding: 0 1.1rem;
 }
 .downButton{
-  margin: 1rem 1rem 1rem;
+  margin: 1rem 1rem 3rem;
 }
 
 h3{
@@ -71,6 +71,7 @@ h3{
 }
 .cont{
   text-align: center;
+  margin-bottom: 1.5rem;
 }
 #testimonials{
   text-align: center;
